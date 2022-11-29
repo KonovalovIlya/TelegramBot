@@ -7,6 +7,6 @@
 Для создания бота использовалась библиотека PyTelegramBotAPI
 Для запуска скрипта необходимо установить ее - выполнить команду:
 
-```pip install pytelegrambotapi```
+```pip install requirements.txt```
 ## Использование
 В мессенждере Telegram находим бота по нику @AleshaMyTravelbot и используем предлагаемые им команды.
